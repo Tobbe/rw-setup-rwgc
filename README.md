@@ -21,7 +21,7 @@ Inside your Redwood project you can now use the `rw-shad` command to generate co
 For example, the command below will generate a button component
 
 ```
-yarn rw-shad button
+yarn dlx rw-shad button
 ```
 
 Note
